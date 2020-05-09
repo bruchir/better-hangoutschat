@@ -138,15 +138,15 @@
 
 /* Follow button color */
 .zxHSSc {
-    color: #EEBE67;
-    background-color: #2d2d2d;
+    color: rgb(158, 186, 226);
+    background-color: rgb(33, 40, 53);
     border: solid 1px #3f3f3f;
 }
 .yg4pvb::before {
     background: transparent;
 }
 .zxHSSc.FuHVqe {
-    background-color: rgba(150,30,30,0.300);
+    background-color: rgb(158, 186, 226);
 }
 
 /* Cancel button when editing a message */
