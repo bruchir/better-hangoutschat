@@ -243,10 +243,10 @@
     color: #fff;
 }
 .FS4hgd.iWO5td.iWO5td, div .dHI9xe.KKjvXb, div .dHI9xe.qs41qe {
-    background-color: #cc7832;
+    background-color: rgb(55, 128, 119);
 }
 .PL5Wwe:focus:not(.dQ2Tsf) {
-    background-color: #aa5010;
+    background-color: rgb(55, 128, 119);
 }
 
 /* Sidebar elements text color for chans with unread messages */
@@ -319,7 +319,7 @@
 
 /* Chat top left logo */
 #_x3C_Path_x3E_ {
-    fill: #cc7832;
+    fill: rgb(55, 128, 119);
 }
 
 /* Top left corner Status button when active */
