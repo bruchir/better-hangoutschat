@@ -70,7 +70,7 @@
 }
 /* Room title between threads in search results */
 .aVIRye {
-    color: #cc7832 !important;
+    color: rgb(168, 228, 222) !important;
 }
 /* Load more messages button in search results */
 .taQuBe {
@@ -97,7 +97,7 @@
     border: solid 1px #5f5f5f;
 }
 .MbhUzd {
-    background-color: #cc7832;
+    background-color: rgb(158, 186, 226);
 }
 
 /* Active thread box */
@@ -107,15 +107,15 @@
 
 /* "Unread" label */
 .Fv5sh {
-    color: #cc7832;
+    color: rgb(158, 186, 226);
 }
 .z9ucM .heceU {
-    fill: #cc7832;
+    fill: rgb(158, 186, 226);
 }
 
 /* Jump to bottom button */
 .g3VIld .HvOprf, .e3Duub, .w63zXd .NMPajd {
-    background-color: #cc7832;
+    background-color: rgb(158, 186, 226);
 }
 .g3VIld .HvOprf:hover, .e3Duub:hover, .w63zXd:hover .NMPajd {
     background-color: #aa5010;
@@ -128,7 +128,7 @@
 .Jqvwfe {
     background-color: #3d3d3d;
     border: solid 1px #6a6a6a;
-    color: #cc7832;
+    color: rgb(158, 186, 226);
 }
 
 /* Username color */
@@ -151,7 +151,7 @@
 
 /* Cancel button when editing a message */
 .HQ8yf .RveJvd.RveJvd, .oG5Srb .RveJvd.RveJvd, .KV0KFc .ojqkvd {
-    color: #cc7832;
+    color: rgb(158, 186, 226);
 }
 
 /* Borders in message editing */
@@ -190,7 +190,7 @@
     color: #fff;
 }
 .SfqTBc .jy2fzc {
-    color: #cc7832;
+    color: rgb(158, 186, 226);
 }
 
 /* New thread box */
@@ -205,7 +205,7 @@
     color: #fff;
 }
 .zFe2Ef:not(.RDPZE) .v6TC2e { /* send button when active */
-    fill: #cc7832;
+    fill: rgb(189, 189, 189);
 }
 
 /* Join room box in room preview */
@@ -217,7 +217,7 @@
 }
 /* Join button */
 .W32wZ {
-    background-color: #cc7832;
+    background-color: rgb(55, 128, 119);
 }
 
 /* Text between threads color */
@@ -261,8 +261,8 @@
 
 /* "Unread" jump button in sidebar */
 .OpmeVb .GfYBMd, .FTuhNb .RW5Kg {
-    fill: #cc7832;
-    color: #cc7832;
+    fill: rgb(55, 128, 119);
+    color: rgb(55, 128, 119);
 }
 
 /* Sidebar "recent" or "starred" section names color */
@@ -357,7 +357,7 @@
 /* Inline pre colors */
 .U8d2H {
     background-color: #3d3d3d;
-    color: #cc7832;
+    color: rgb(55, 128, 119);
     border: 1px solid #6a6a6a;
 }
 
@@ -407,11 +407,11 @@
     color: #ccc;
 }
 .dIC9Jb.CwpxMe .j3630e {
-    color: #cc7832;
+    color: rgb(55, 128, 119);
 }
 
 div .mUbCce:hover, div .mUbCce:focus, div .mUbCce:active, div .mUbCce.qs41qe, div .mUbCce.u3bW4e, .JRtysb:hover .snByac, .JRtysb:focus .snByac, .JRtysb:active .snByac, .JRtysb.qs41qe .snByac, .JRtysb.u3bW4e .snByac {
-    fill: #cc7832;
+    fill: rgb(55, 128, 119);
 }
 
 /* browse room and search exit button */
