@@ -28,10 +28,6 @@
     color: #fff;
 }
 
-/* Top left section */
-.TycDBe {
-  background-color: rgb(40, 40, 40);
-}
 /* Topbar background color */
 .QTQg5e {
     background-color: rgb(40, 40, 40);
@@ -319,7 +315,7 @@
 
 /* Top left corner section (with title) background color and border */
 .Riuhhf {
-    background-color: #212121;
+    background-color: rgb(40, 40, 40);
     border-right: solid 1px #6a6a6a;
     border-bottom: solid 1px #6a6a6a;
 
