@@ -28,6 +28,10 @@
     color: #fff;
 }
 
+/* Top left section */
+.TycDBe {
+  rgb(40, 40, 40);
+}
 /* Topbar background color */
 .QTQg5e {
     background: rgb(40, 40, 40);
@@ -215,7 +219,7 @@
     color: #fff;
 }
 .zFe2Ef:not(.RDPZE) .v6TC2e { /* send button when active */
-    fill: rgb(189, 189, 189);
+    fill: rgb(55, 128, 119);
 }
 
 /* Join room box in room preview */
