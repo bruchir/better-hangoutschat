@@ -205,8 +205,11 @@
 
 /* New thread box */
 .XganBc {
-    background: transparent;
+    background-color: #2d2d2d;
     border: solid 1px #5f5f5f;
+}
+.XganBc.eLNT1d {
+  background: transparent;
 }
 .p9Cqzd { /* exit cross */
     fill: #fff;
