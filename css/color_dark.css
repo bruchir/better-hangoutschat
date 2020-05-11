@@ -171,7 +171,7 @@
 
 /* Answer box background color */
 .vmpzOc {
-    background-color: #2d2d2d;
+    background: transparent;
 }
 /* Cursor and text input color */
 .oAzRtb {
@@ -433,9 +433,4 @@ div .mUbCce:hover, div .mUbCce:focus, div .mUbCce:active, div .mUbCce.qs41qe, di
 /* Hide own image */
 .iXHk0b.qTBdi {
   display: none;
-}
-
-/* Suggestion message background */
-.pTsNVe {
-  background: transparent;
 }
