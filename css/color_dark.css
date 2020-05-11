@@ -320,6 +320,7 @@
 /* Search menu background */
 .wIWLtb {
   background-color: #2d2d2d;
+  color: #000;
 }
 
 /* Top left corner section (with title) background color and border */
@@ -441,5 +442,5 @@ div .mUbCce:hover, div .mUbCce:focus, div .mUbCce:active, div .mUbCce.qs41qe, di
 
 /* Hide own image */
 .iXHk0b.qTBdi {
-  display: none;
+  //display: none;
 }
