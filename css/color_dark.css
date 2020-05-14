@@ -80,7 +80,7 @@
 
 /* Topbar members button */
 .sNyyib .x1jjEb {
-    background-color: rgb(55, 128, 119);
+    background-color: #378077;
 }
 
 /* Topbar in room preview */
@@ -219,7 +219,7 @@
     color: #fff;
 }
 .zFe2Ef:not(.RDPZE) .v6TC2e { /* send button when active */
-    fill: rgb(55, 128, 119);
+    fill: #378077;
 }
 
 /* Join room box in room preview */
@@ -231,7 +231,7 @@
 }
 /* Join button */
 .W32wZ {
-    background-color: rgb(55, 128, 119);
+    background-color: #378077;
 }
 
 /* Text between threads color */
@@ -257,10 +257,10 @@
     color: #fff;
 }
 .FS4hgd.iWO5td.iWO5td, div .dHI9xe.KKjvXb, div .dHI9xe.qs41qe {
-    background-color: rgb(55, 128, 119);
+    background-color: #378077;
 }
 .PL5Wwe:focus:not(.dQ2Tsf) {
-    background-color: rgb(55, 128, 119);
+    background-color: #378077;
 }
 
 /* Sidebar elements text color for chans with unread messages */
@@ -275,8 +275,8 @@
 
 /* "Unread" jump button in sidebar */
 .OpmeVb .GfYBMd, .FTuhNb .RW5Kg {
-    fill: rgb(55, 128, 119);
-    color: rgb(55, 128, 119);
+    fill: #378077;
+    color: #378077;
 }
 
 /* Sidebar "recent" or "starred" section names color */
@@ -339,12 +339,12 @@
 
 /* Chat top left logo */
 #_x3C_Path_x3E_ {
-    fill: rgb(55, 128, 119);
+    fill: #378077;
 }
 
 /* Top left corner Status button when active */
 .RASpke:hover, .RASpke:focus, .RASpke:hover:focus, .RASpke:active, .RASpke.iWO5td.iWO5td {
-    background-color: rgb(55, 128, 119);
+    background-color: #378077;
 }
 
 /* Time and menu buttons and clock for channels inactive and active colors */
@@ -377,17 +377,17 @@
 /* Inline pre colors */
 .U8d2H {
     background-color: #3d3d3d;
-    color: rgb(55, 128, 119);
+    color: #378077;
     border: 1px solid #6a6a6a;
 }
 
 /* Self Mentions */
 .cmEq8b .NhKrqd {
-    background-color: rgb(55, 128, 119);
+    background-color: #378077;
 }
 /* Others' mentions */
 .fWwrkf {
-    color: rgb(55, 128, 119);
+    color: #378077;
 }
 
 /* Link previews */
@@ -427,11 +427,11 @@
     color: #ccc;
 }
 .dIC9Jb.CwpxMe .j3630e {
-    color: rgb(55, 128, 119);
+    color: #378077;
 }
 
 div .mUbCce:hover, div .mUbCce:focus, div .mUbCce:active, div .mUbCce.qs41qe, div .mUbCce.u3bW4e, .JRtysb:hover .snByac, .JRtysb:focus .snByac, .JRtysb:active .snByac, .JRtysb.qs41qe .snByac, .JRtysb.u3bW4e .snByac {
-    fill: rgb(55, 128, 119);
+    fill: #378077;
 }
 
 /* browse room and search exit button */
@@ -443,4 +443,9 @@ div .mUbCce:hover, div .mUbCce:focus, div .mUbCce:active, div .mUbCce.qs41qe, di
 /* Hide own image */
 .iXHk0b.qTBdi {
   //display: none;
+}
+
+/* Sender color */
+.njhDLd {
+  color: #378077;
 }
