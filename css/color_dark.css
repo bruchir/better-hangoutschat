@@ -446,7 +446,7 @@ div .mUbCce:hover, div .mUbCce:focus, div .mUbCce:active, div .mUbCce.qs41qe, di
     fill: #000 !important;
 }
 
-/* Hide own image */
-.iXHk0b.qTBdi {
-  //display: none;
+/* Add people & bots button */
+.ZFr60d {
+  background-color: transparent;
 }
