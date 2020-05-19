@@ -294,6 +294,9 @@
 .D3DXDc {
     fill: rgb(202, 196, 201) !important;
 }
+.ReIHZc .ZTmjQb {
+  color: #fff;
+}
 
 .BmI6nc .t5F5nf {
   color: #fff;
@@ -320,7 +323,7 @@
 
 /* Search menu people list mail color */
 .dQ2Tsf[aria-selected="true"] .Kfe2Ub, .PL5Wwe:hover > .dQ2Tsf .Kfe2Ub {
-    color: #000;
+    color: #fff;
 }
 
 /* Search menu background */
