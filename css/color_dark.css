@@ -449,7 +449,7 @@ div .mUbCce:hover, div .mUbCce:focus, div .mUbCce:active, div .mUbCce.qs41qe, di
 
 /* browse room and search exit button */
 .xTcvqe .fKz7Od, .wbJc4 .fKz7Od {
-    color: #1E1E1E;
+    color: #000 !important;
     fill: #1E1E1E;
 }
 
