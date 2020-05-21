@@ -4,19 +4,19 @@
 }
 /* Global Background color */
 .Bl2pUd {
-    background-color: rgb(30, 30, 30);
+    background-color: #1E1E1E;
 }
 /* Global background color in private messages */
 .WQKmIb .Bl2pUd, .WQKmIb .byY7Yb {
-    background-color: rgb(30, 30, 30);
+    background-color: #1E1E1E;
 }
 /* Global background color in room preview */
 .x7DKme {
-    background-color: rgb(30, 30, 30) !important;
+    background-color: #1E1E1E !important;
 }
 /* Global background color in search results */
 .pWhTUc {
-    background-color: rgb(30, 30, 30) !important;
+    background-color: #1E1E1E !important;
 }
 
 /* Title in private messages */
@@ -47,24 +47,27 @@
 }
 /* Thread boxes colors */
 .dsoUjb {
-    background-color: rgb(30, 30, 30);
+    background-color: #1E1E1E;
     border: solid 1px #4a4a4a;
 }
 .oGsu4 {
-    background-color: rgb(30, 30, 30);
+    background-color: #1E1E1E;
 }
 .nF6pT.FwR7Pc .iKCcE, .hu21Y:hover {
-    background-color: rgb(30, 30, 30);
+    background-color: #1E1E1E;
 }
 .XbbXmb.zzVqCe .nF6pT, .jGyvbd .jO0Dzb {
-    background-color: rgb(30, 30, 30);
+    background-color: #1E1E1E;
 }
 
 /* Thread boxes in pm */
 .WQKmIb .dsoUjb {
-    background-color: rgb(30, 30, 30) !important;
+    background-color: #1E1E1E !important;
     //border: solid 1px #2d2d2d !important;
 
+}
+.cZICLc .dsoUjb.FwR7Pc {
+  border: solid 1px #378077;
 }
 
 /* Thread boxes in search results */
