@@ -1,6 +1,7 @@
 /* Specify color for thread links */
 .threadlink {
     color: #fff;
+    display: none;
 }
 /* Global Background color */
 .Bl2pUd {
